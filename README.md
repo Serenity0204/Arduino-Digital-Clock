@@ -16,6 +16,9 @@ A digital clock built using Arduino microcontroller, it supports the functionali
 * MCU Shield with buttons and display included
 ![shield.jpg](./demo/shield.jpg)
 
+* Spec
+![spec.jepg](./demo/spec.jpeg)
+
 * Video Demonstration
 https://github.com/Serenity0204/Arduino-Digital-Clock/assets/84289383/e50b5b3e-c0e5-4a62-8a10-a7dcd1d17c44
 
